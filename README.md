@@ -1,4 +1,4 @@
-# ATF and u-boot for mt798x
+# ATF and u-boot for mt798x with DHCPD
 
 ## About bl-mt798x
 - https://cmi.hanwckf.top/p/mt798x-uboot-usage
